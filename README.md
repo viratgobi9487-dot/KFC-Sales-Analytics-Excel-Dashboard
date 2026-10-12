@@ -1,7 +1,5 @@
-# KFC Sales Analytics
-
-KFC Sales Data Analysis and Dashboard using Python and Excel.
-
+# KFC Sales Analytics Dashboard using Excel
+KFC Sales Data Analysis and Dashboard using Microsoft Excel.
 ## Project Overview
 
 This project focuses on analyzing KFC sales data from 2023 to 2024. 
